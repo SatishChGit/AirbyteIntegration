@@ -1,6 +1,6 @@
 version: 2
 sources:
-  - name: airbyte_quickstartstd_repo_01Nov2022
+  - name: airbyte_dbt_docker
     quoting:
       database: true
       schema: false
